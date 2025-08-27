@@ -1,0 +1,23 @@
+# Entorno virtual
+venv/
+.env/
+
+# Dataset grande
+Conjunto de datos/
+
+# Archivos compilados de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Checkpoints de modelos (opcional)
+*.pt
+*.pth
+
+# Logs
+*.log
+
+# Mac/Windows
+.DS_Store
+Thumbs.db
