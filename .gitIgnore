@@ -5,11 +5,6 @@ venv/
 # Dataset grande
 Conjunto de datos/
 
-# Archivos compilados de Python
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
 
 # Checkpoints de modelos (opcional)
 *.pt
